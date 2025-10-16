@@ -8,7 +8,9 @@
 
 *Based on the paper: "Less is More: Recursive Reasoning with Tiny Networks"*
 
-![TRM Architecture](TRMArchitecture.png)
+<div align="center">
+  <img src="TRMArchitecture.png" alt="TRM Architecture" width="500"/>
+</div>
 
 ## 📖 Overview
 
