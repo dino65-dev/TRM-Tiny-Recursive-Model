@@ -307,19 +307,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📖 Citation
-
-If you use this implementation in your research, please cite:
-
-```bibtex
-@article{trm2024,
-  title={Less is More: Recursive Reasoning with Tiny Networks},
-  author={[Paper Authors]},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-}
-```
-
 ## 🙏 Acknowledgments
 
 - Original paper authors for the innovative architecture
@@ -330,17 +317,7 @@ If you use this implementation in your research, please cite:
 
 For questions, issues, or suggestions:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
-
-## 🗺️ Roadmap
-
-- [ ] Add pretrained models for common tasks
-- [ ] Implement gradient checkpointing for memory efficiency
-- [ ] Add visualization tools for reasoning process
-- [ ] Support for distributed training
-- [ ] Integration with popular datasets (Sudoku, GSM8K, etc.)
-- [ ] Quantization support for deployment
-
+- Email: [dinmaybrahma@outlook.com]
 ---
 
 **Star ⭐ this repository if you find it helpful!**
